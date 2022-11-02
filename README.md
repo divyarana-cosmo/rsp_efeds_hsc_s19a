@@ -1,9 +1,9 @@
-# Measuring splashback radius around the eROSITA eFEDS X-ray clusters using Subaru HSC S19A optical galaxy data
+# Splashback radius measurements around the eROSITA eFEDS X-ray clusters using Subaru HSC S19A optical galaxy data
 Here we are providing the measurements for cross-correlation as well as weak lensing computed used in our research publication: 'ARXIV LINK'
 
 We provide the measurements with associated covariances
-- Cross-correlation: 'rsp2d_meas.dat' is the measurements, and 'cov_rsp2d.dat' is the covariance
-- Weak lensing: 'wl_meas.dat' is the measurements, and 'cov_wl.dat' is the covariance
+- Cross-correlation: 'rsp2d_meas.dat' is the measurements, and 'cov_rsp2d.dat' is the covariance.
+- Weak lensing: 'wl_meas.dat' is the measurements, and 'cov_wl.dat' is the covariance.
 
 Each of the measurement files has three columns
 1. Comoving projected radial bin - 'rbin[h-1 Mpc]' in units of hinv Mpc.
