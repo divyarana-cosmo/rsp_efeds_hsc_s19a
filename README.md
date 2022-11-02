@@ -10,5 +10,5 @@ Each of the measurement files has three columns
 2. Signal measurement values - 'xi_2d' or 'delta_sigma'.
 3. The third column gives the associated 1 sigma errors.
 
-The cross-correlation measurements are for Figure 4, and weak lensing is for the top panel in Figure 2 in the paper. The Weak lensing measurements 'delta_sigma'are in units of (hinv Msun/pc^2).
+The cross-correlation measurements are for Figure 4, and weak lensing is for the top panel in Figure 2 in the paper. The Weak lensing measurements 'delta_sigma' are in units of (hinv Msun/pc^2).
 
