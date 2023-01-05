@@ -1,4 +1,4 @@
-# Splashback radius measurements around the eROSITA eFEDS X-ray clusters using Subaru HSC S19A optical galaxy data
+# The eROSITA Final Equatorial-Depth Survey (eFEDS) - Splashback radius of X-ray galaxy clusters using galaxies from HSC survey
 Here we are providing the measurements for cross-correlation as well as weak lensing computed used in our research publication: 'ARXIV LINK'
 
 We provide the measurements with associated covariances
